@@ -13,4 +13,5 @@ I am Yazeed Alharbi. I am currently in the second year of my PhD studies at King
 
 # Recent news
 [2020] Paper accepted to CVPR2020 for oral presentation
+
 [2019] Paper accepted to CVPR2019
