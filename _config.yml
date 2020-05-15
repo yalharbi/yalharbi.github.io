@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yazeed Alharbi"
-  avatar           : "12.jpg"
+  avatar           : "images/12.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
