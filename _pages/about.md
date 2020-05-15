@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 # About me
-I am Yazeed Alharbi. I am currently in the second year of my PhD studies at King Abdullah University for Science and Technology (KAUST). I am working on deep learning. Specifically, I work on GANs for image synthesis.
+I am Yazeed Alharbi. I am currently in the second year of my PhD studies at King Abdullah University for Science and Technology (KAUST) under the supervision of professor Peter Wonka. 
+I am working on deep learning. Specifically, I work on GANs for image synthesis.
 
 # Recent news
 [2020] Paper accepted to CVPR2020 for oral presentation
