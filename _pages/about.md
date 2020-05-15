@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-WIP
-.
-WIP
+
+# About me
+I am Yazeed Alharbi. I am currently in the second year of my PhD studies at King Abdullah University for Science and Technology (KAUST). I am working on deep learning. Specifically, I work on GANs for image synthesis.
+
+# Recent news
+[2020] Paper accepted to CVPR2020 for oral presentation
+[2019] Paper accepted to CVPR2019
