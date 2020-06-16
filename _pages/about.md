@@ -15,7 +15,7 @@ I am working on deep learning for computer vision tasks. Specifically, I work on
 Prior to my PhD, I obtained my master degree with professor Peter Wonka at KAUST. My master thesis is titled: "Marker Detection in High Resolution Aerial Images." I obtained my bachelor degree from Purdue University.
 
 # Recent news
-[2020] Paper nominated for best paper award
+[2020] Paper nominated for best paper award at CVPR2020
 
 [2020] Paper accepted to CVPR2020 for oral presentation
 
